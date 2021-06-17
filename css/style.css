@@ -1,0 +1,67 @@
+.nav{
+    background: #0f5132;
+    overflow: hidden;
+    color: white;
+}
+ul li {
+    list-style: none;
+    display: inline-block;
+}
+li a{
+    color: white;
+    text-decoration: none;
+    padding: 5px 10px
+}
+li a:hover{
+    color: white;
+    background: #052214;
+    border-radius: 5px;
+}
+.main-body{
+    background: url(/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain
+    color: white
+}
+.main-body h1{
+    background: #dee2e6;
+    padding: 5px;
+    display: inline-block;
+    margin-bottom: 0px;
+    color: darkslategray;
+}
+.main-body p{
+    background: gray;
+    padding: 5px;
+}
+i{
+    font-size: 70px;
+    color: green;
+    padding: 10px
+}
+.col-md-4, h2{
+    text-align: center;
+}
+.hr{
+    height: 3px;
+    width: 100px;
+    background: green;
+    margin: auto;
+}
+.container-section .container{
+    margin-top: 30px;;
+}
+.testimonial{
+    background: url(../office-865091_1920.jpg);
+    color: white;
+    text-align: justify-all
+}
+.client{
+    border-radius: 50% 50%;
+    margin: auto;
+    margin-left: 40%;
+}
+.testimonial-row{
+    margin-bottom: 50px;
+}
